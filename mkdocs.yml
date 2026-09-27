@@ -1,0 +1,27 @@
+site_name: Kepos
+site_description: >-
+  Community-maintained graduate program experiences — syllabi, course notes,
+  reading lists, and application experiences for students considering or
+  currently in programs abroad.
+docs_dir: content
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
