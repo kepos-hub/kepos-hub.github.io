@@ -20,7 +20,85 @@ theme:
 nav:
   - Home: index.md
   - Universities:
-      - LUH Hannover: universities/luh-hannover/program-overview.md
+      - LUH Hannover:
+          - Program overview: universities/luh-hannover/program-overview.md
+          - WS2025:
+              - Introduction to Philosophy of Science:
+                  - Overview: universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/overview.md
+                  - Sessions:
+                      - "1. What is philosophy of science?": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/01-what-is-philosophy-of-science.md
+                      - "2. Scientific rationality": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/02-scientific-rationality.md
+                      - "3. Scientific revolutions (1)": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/03-scientific-revolutions-part-1.md
+                      - "4. Scientific revolutions (2)": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/04-scientific-revolutions-part-2.md
+                      - "5. Values and objectivity": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/05-values-and-objectivity.md
+                      - "6. Inductive risk and the value-free ideal": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/06-inductive-risk-and-value-free-ideal.md
+                      - "7. Underdetermination and realism": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/07-underdetermination-and-realism.md
+                      - "8. Instruments, entity-realism, experimentation": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/08-instruments-entity-realism-experimentation.md
+                      - "9. Scientific explanation": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/09-scientific-explanation.md
+                      - "10. Models and modeling": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/10-models-and-modeling.md
+                      - "11. Science and policy": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/11-science-and-policy.md
+                      - "12. Big data and open science": universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/sessions/12-big-data-open-science.md
+                  - Readings: universities/luh-hannover/semesters/ws2025/courses/introduction-to-philosophy-of-science/resources/readings.md
+              - Models and Measurement:
+                  - Overview: universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/overview.md
+                  - Sessions:
+                      - "Preparatory session": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/00-preparatory-session.md
+                      - "Ch. 1 — Keeping the fixed points fixed": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/01-keeping-the-fixed-points-fixed.md
+                      - "Ch. 2 — Spirit, air, and quicksilver": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/02-spirit-air-and-quicksilver.md
+                      - "Ch. 3 — To go beyond": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/03-to-go-beyond.md
+                      - "Ch. 4 — Theory, measurement, absolute temperature": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/04-theory-measurement-absolute-temperature.md
+                      - "Ch. 5 — Measurement, justification, progress": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/05-measurement-justification-scientific-progress.md
+                  - Readings: universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/resources/readings.md
+              - Project Seminar / Project Week:
+                  - Overview: universities/luh-hannover/semesters/ws2025/courses/project-week/overview.md
+                  - Sessions:
+                      - "1. Introduction": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/01-introduction.md
+                      - "2. Reading philosophical literature": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/02-reading-philosophical-literature.md
+                      - "3. Concepts and conceptual analysis": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/03-concepts-and-conceptual-analysis.md
+                      - "4. Reconstructing arguments": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/04-reconstructing-arguments.md
+                      - "5. Evaluating arguments": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/05-evaluating-arguments.md
+                      - "6. How to start a project": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/06-how-to-start-a-project.md
+                      - "7. Structuring a paper": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/07-structuring-a-paper.md
+                      - "8. Using philosophical tools": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/08-using-philosophical-tools.md
+                      - "9. Essay writing week": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/09-essay-writing-week.md
+                      - "10. Reflection on the process": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/10-reflection-on-the-process.md
+                      - "11. Referencing and citations": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/11-referencing-and-citations.md
+                      - "12. Independent research & check-in": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/12-checking-in.md
+                  - Readings: universities/luh-hannover/semesters/ws2025/courses/project-week/resources/readings.md
+                  - Writing & exam guidelines: universities/luh-hannover/semesters/ws2025/courses/project-week/resources/writing-and-exam-guidelines.md
+          - SS2026:
+              - Formal Methods:
+                  - Overview: universities/luh-hannover/semesters/ss2026/courses/formal-methods/overview.md
+                  - Sessions:
+                      - "1. Introduction": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/01-introduction.md
+                      - "2. Propositional logic": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/02-propositional-logic.md
+                      - "3. Predicate logic (1)": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/03-predicate-logic-part-1.md
+                      - "4. Predicate logic (2)": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/04-predicate-logic-part-2.md
+                      - "5. Probability (general)": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/05-probability-general.md
+                      - "6. Probability (subjective)": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/06-probability-subjective.md
+                      - "7. Bayesianism": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/07-bayesianism.md
+                      - "8. Challenges to Bayesianism": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/08-challenges-to-bayesianism.md
+                      - "9. Large language models": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/09-large-language-models.md
+                      - "10. Decision theory": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/10-decision-theory.md
+                      - "11. Paradoxes & challenges to decision theory": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/11-paradoxes-and-challenges-to-decision-theory.md
+                      - "12. Game theory and its critics": universities/luh-hannover/semesters/ss2026/courses/formal-methods/sessions/12-game-theory-and-its-critics.md
+              - Morality and Justice:
+                  - Overview: universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/overview.md
+                  - Sessions:
+                      - "1. Preliminaries and introduction": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/01-preliminaries-and-introduction.md
+                      - "2. Hedonism": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/02-hedonism.md
+                      - "3. Challenges to hedonism": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/03-challenges-to-hedonism.md
+                      - "4. Divine command theory": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/04-divine-command-theory.md
+                      - "5. Natural law": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/05-natural-law.md
+                      - "6. Utilitarianism": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/06-utilitarianism.md
+                      - "7. Kantian ethics": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/07-kantian-ethics.md
+                      - "8. Social contract theory": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/08-social-contract-theory.md
+                      - "9. Prima facie duties": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/09-prima-facie-duties.md
+                      - "10. Virtue ethics": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/10-virtue-ethics.md
+                      - "11. Metaethics and skepticism": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/11-metaethics-and-skepticism.md
+                      - "12. Applied ethics: world poverty": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/12-applied-ethics-world-poverty.md
+                      - "13. Applied ethics: abortion": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/13-applied-ethics-abortion.md
+                  - Readings: universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/resources/readings.md
 
 markdown_extensions:
   - admonition

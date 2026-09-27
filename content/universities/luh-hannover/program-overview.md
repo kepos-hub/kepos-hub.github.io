@@ -47,5 +47,8 @@ areas.
 
 ## Semesters
 
-No semester/course content added yet. See `CLAUDE.md` for the expected
-`semesters/<term-slug>/courses/<course-slug>/` structure when adding one.
+- [WS2025](semesters/ws2025/courses/introduction-to-philosophy-of-science/overview.md) —
+  Introduction to Philosophy of Science, Models and Measurement, Project
+  Seminar/Project Week.
+- [SS2026](semesters/ss2026/courses/formal-methods/overview.md) —
+  Formal Methods, Morality and Justice.
