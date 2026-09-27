@@ -19,6 +19,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Universities:
+      - LUH Hannover: universities/luh-hannover/program-overview.md
 
 markdown_extensions:
   - admonition
