@@ -57,6 +57,8 @@ misconduct.
 
 ## Sessions
 
-See `sessions/` for the topic-by-topic breakdown. Specific readings for
-each session are distributed via the course's Stud.IP dashboard and
-aren't reproduced here.
+See `sessions/` for the topic-by-topic breakdown, including the
+recommended reading and exercise sheet for each session, and
+`resources/readings.md` for the whole list at a glance. These follow the
+course's Stud.IP dashboard (as of its last update on Jun 28, 2026); the
+readings themselves aren't reproduced here.
